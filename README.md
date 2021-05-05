@@ -11,4 +11,11 @@ O link para a pasta que contem esses formulários se encontra [aqui](https://dri
 
 O [dicionário](./Dicionário.xlsx) com o significado de cada uma das perguntas se encontra neste repositório.
 
+O script que realiza o pre-processamento dos dados, é encontrado no arquivo [Pre-Formating.ipynb](./Pre_Formating.ipynb)
+
 ## Processamento
+
+É necessário ter os arquivos pré-processados organizados na pasta adequada para que seja gerado os resultados dessa pesquisa.
+
+O script que realiza o processamento dos dados, é encontrado no arquivo [TCC.ipynb](./TCC.ipynb)
+
